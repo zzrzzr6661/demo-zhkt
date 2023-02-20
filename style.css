@@ -5,7 +5,7 @@
 }
 
 body {
-  width: 100%;
+  width: 1518px;
   height: 100%;
   font-family: Arial, sans-serif;
   font-size: 16px;
@@ -27,7 +27,6 @@ nav {
 nav ul {
   list-style: none;
   display: flex;
-  float: right;
 }
 
 nav ul li {
@@ -106,7 +105,7 @@ footer {
 	margin-top: 20px;
 	line-height: 1.2;
 	margin: 10px 30px 20px 60px;
-	width: 93%;
+	width: 1400px;
 }
 .section-1 img {
 	height: 200px;
@@ -120,7 +119,7 @@ footer {
 	margin-top: 20px;
 	line-height: 1.2;
 	margin: 10px 40px 50px 50px;
-	width: 93%;
+	width: 1400px;
 }
 .section-1 h2 {
 	font-size: 40px;
@@ -149,6 +148,6 @@ footer {
 	font-size: 25px;
 }
 .section-0 {
-	margin-left:650px;
+	float: right;
 	margin-top:32px;
 }
